@@ -103,6 +103,12 @@ Há classes no trabalho no qual podem existir apenas um de seus objetos. Para fa
 
 O arquivo .jar do servidor estará na pasta "Servidor/src/Server/dist".
 
+Para rodar o programa, use: "java -jar Servidor.jar"
+
+Note: O .jar usa 2 outros .jar, que estão localizados em "Servidor/src/Server/dist/lib".
+
 ##Cliente
 
-O arquivo .jar do servidor estará na pasta "T4_Cliente/src/T4_Cliente/dist"
+O arquivo .jar do servidor estará na pasta "T4_Cliente/src/T4_Cliente/dist".
+
+Para rodar o programa, use: "java -jar T4_Cliente.jar"
