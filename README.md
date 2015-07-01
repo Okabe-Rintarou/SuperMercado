@@ -95,3 +95,14 @@ Na aplicação do servidor, é possível que o usuário tenha um .pdf das vendas
 ##Singleton - Design Pattern
 
 Há classes no trabalho no qual podem existir apenas um de seus objetos. Para facilitar isso, foi usado o design pattern de Singleton.
+
+
+#Arquivo .jar
+
+##Servidor
+
+O arquivo .jar do servidor estará na pasta "Servidor/src/Server/dist".
+
+##Cliente
+
+O arquivo .jar do servidor estará na pasta "T4_Cliente/src/T4_Cliente/dist"
