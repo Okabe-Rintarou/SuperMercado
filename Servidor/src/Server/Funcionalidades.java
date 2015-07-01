@@ -884,7 +884,8 @@ public class Funcionalidades
         {
             if(nome.equals(aux.getNome()))
             {
-                this.listClientes.remove(aux);
+                this.listProdutos.remove(aux);
+                break;
             }
         }
     }           
