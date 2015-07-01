@@ -719,7 +719,7 @@ public class Funcionalidades
         {
             if(p.getEsgotado() == true)
             {
-                System.out.println(p.getEsgotado());
+                //System.out.println(p.getEsgotado());
                 System.out.println("Nome: " + p.getNome());
                 System.out.println("Preco: " + p.getPreco());
                 System.out.println("Data de validade: " + p.getDiaV() + "/" + p.getMesV() + "/" + p.getAnoV());
@@ -741,7 +741,7 @@ public class Funcionalidades
         {
             if(p.getEsgotado() == false)
             {
-                System.out.println(p.getEsgotado());
+                //System.out.println(p.getEsgotado());
                 System.out.println("Nome: " + p.getNome());
                 System.out.println("Preco: " + p.getPreco());
                 System.out.println("Data de validade: " + p.getDiaV() + "/" + p.getMesV() + "/" + p.getAnoV());
