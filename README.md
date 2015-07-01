@@ -1,5 +1,9 @@
 #Trabalho da matéria SSC0103 - Programação Orientada a objetos.
 
+#Nome dos alunos
+##Luiz Massao Miyazaki - 8937080
+##Rafael Kenji Nissi - 8937013
+
 #Introdução 
 
 Nesse trabalho, foi implementado um supermercado com várias funções, como login de usuários, compra de produtos, etc.
