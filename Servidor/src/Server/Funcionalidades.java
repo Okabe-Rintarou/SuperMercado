@@ -667,7 +667,7 @@ public class Funcionalidades
                             space = 650;
                         }
                         
-                        System.out.println(space);
+                        //System.out.println(space);
                         
                        // space -= 30;
                     }
